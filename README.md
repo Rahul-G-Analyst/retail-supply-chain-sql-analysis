@@ -2,7 +2,7 @@
 
 ---
 
-# ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)  
+# ![Apple Logo](https://github.com/Rahul-G-Analyst/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)  
 # Apple Retail Sales SQL Project  
 
 ## Project Overview  
